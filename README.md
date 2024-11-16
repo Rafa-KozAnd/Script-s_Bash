@@ -21,3 +21,15 @@ Repository for Bash scripts created and saved.
 - Last Update Date: 16/11/2024.
 
 ##
+
+### Como usar:
+
+Salvar o script: Crie um arquivo chamado limpar_temp.sh e cole o código acima nele.
+
+Tornar o script executável: No terminal, execute:
+
+`chmod +x arquivo.sh`
+
+Executar o script: Rode o script como root para garantir que você tenha permissão para excluir arquivos em diretórios do sistema:
+
+`sudo ./arquivo.sh`
